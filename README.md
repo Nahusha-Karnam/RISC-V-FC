@@ -10,6 +10,9 @@ We are using the VSD Squadron Mini which uses the 32-bit CH32V003F4U6 microcontr
 ## Flight Computer
 ![image](https://github.com/user-attachments/assets/427a126a-f084-4e91-9138-f149d6d50837)
 
+## Flight Computer Circuit Diagram
+<img width="732" alt="vsdfc" src="https://github.com/user-attachments/assets/9ff52c79-7744-4288-a4a6-03a394ed5dfc">
+
 ## Flight Controller
 ![image](https://github.com/user-attachments/assets/7c03af38-7ebb-418e-9b0a-a36e91db5e99)
 
