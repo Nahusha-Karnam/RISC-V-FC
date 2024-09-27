@@ -19,6 +19,11 @@ We are using the VSD Squadron Mini which uses the 32-bit CH32V003F4U6 microcontr
 ## Flight Controller Circuit Diagram
 ![image](https://github.com/user-attachments/assets/245508f1-bbec-4bb0-a404-9577720980e9)
 
+## Demo at SEMICON India 2024
+
+https://github.com/user-attachments/assets/76631395-3a9d-4301-8ceb-1479f3b206da
+
+
 ## Ground Level Testing
 https://github.com/user-attachments/assets/71c4f411-5ce5-4add-9790-7fed913bb83c
 
